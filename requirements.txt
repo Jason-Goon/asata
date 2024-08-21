@@ -1,3 +1,8 @@
-transformers==4.31.0
-datasets==2.12.0
-torch==2.0.1  # Ensure this matches the version compatible with your environment
+accelerate==0.33.0
+datasets==2.21.0
+huggingface-hub==0.24.6
+numpy==1.26.4
+safetensors==0.4.4
+sentencepiece==0.2.0
+torch==2.4.0
+transformers==4.44.1
